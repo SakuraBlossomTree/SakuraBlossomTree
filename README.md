@@ -11,7 +11,5 @@ A Computer Science Student who loves programming , game development , web develo
   <br/>
 
   <br/>
-
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5PCYHX)
   
 </div>
