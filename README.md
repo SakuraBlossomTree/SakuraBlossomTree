@@ -38,6 +38,10 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
   
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakurablossomtree)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakurablossomtree&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
