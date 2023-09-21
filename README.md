@@ -13,6 +13,8 @@
   
 </div>
 
+-----
+
 A Computer Science Student who loves 
 - Programming
 - Game development
