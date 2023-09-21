@@ -23,5 +23,13 @@ A Computer Science Student who loves
 
 I also watch anime in my free time and do some typing on <a href="https://monkeytype.com">Monkeytype</a>
 
-My Skills:- 
+<h3>My Skills:- </h3>
+
+<div class="badges">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  
+</div>
+
+
 
