@@ -23,3 +23,5 @@ A Computer Science Student who loves
 
 I also watch anime in my free time and do some typing on <a href="https://monkeytype.com">Monkeytype</a>
 
+My Skills:- 
+
