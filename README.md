@@ -48,4 +48,8 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakurablossomtree&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurablossomtree&layout=compact)
+
 
