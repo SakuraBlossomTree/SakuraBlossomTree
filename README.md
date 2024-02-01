@@ -2,7 +2,7 @@
 
 <div id="badges" align=center>
 
-  <a href="https://twitter.com/YohibHussain">
+  <a href="https://twitter.com/SakuraBlossom65">
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/SakuraBlossom65">
   </a>
   
