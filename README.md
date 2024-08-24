@@ -34,7 +34,6 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-
   
 </div>
 
@@ -42,12 +41,9 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
 
 <h3>My Stats:- </h3>
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=SakuraBlossomTree&theme=tokyonight" alt="Anurag's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraBlossomTree&layout=compact" alt="Top Langs">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuraBlossomTree&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraBlossomTree&layout=compact)
+![LeetCode Stats](https://leetcard.jacoblin.cool/eskyozar?theme=nord&font=JetBrains%20Mono&ext=activity)
 
 
