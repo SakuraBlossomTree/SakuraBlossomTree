@@ -42,7 +42,6 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
 <h3>My Stats:- </h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SakuraBlossomTree&theme=tokyonight" alt="Anurag's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraBlossomTree&layout=compact" alt="Top Langs">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eskyozar?theme=nord&font=JetBrains%20Mono&ext=activity)
 
