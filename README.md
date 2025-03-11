@@ -1,4 +1,4 @@
-<h1 align=center>Hi, My name is SakuraBlossomTree (桜の花木) </h1> 
+you<h1 align=center>Hi, My name is SakuraBlossomTree (桜の花木) </h1> 
 
 <div id="badges" align=center>
 
@@ -45,4 +45,4 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eskyozar?theme=nord&font=JetBrains%20Mono&ext=activity)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraBlossomTree&layout=compact)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SakuraBlossomTree)](https://github.com/anuraghazra/github-readme-stats)
