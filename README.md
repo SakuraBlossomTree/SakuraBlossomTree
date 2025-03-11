@@ -44,5 +44,3 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
 <img src="https://github-readme-stats.vercel.app/api?username=SakuraBlossomTree&theme=tokyonight" alt="Anurag's GitHub stats">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eskyozar?theme=nord&font=JetBrains%20Mono&ext=activity)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SakuraBlossomTree)](https://github.com/anuraghazra/github-readme-stats)
