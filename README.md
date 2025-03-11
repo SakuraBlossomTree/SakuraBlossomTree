@@ -45,4 +45,4 @@ I also watch anime in my free time and do some typing on <a href="https://monkey
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eskyozar?theme=nord&font=JetBrains%20Mono&ext=activity)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurablossomtree)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraBlossomTree&layout=compact)
